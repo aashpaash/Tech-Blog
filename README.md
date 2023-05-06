@@ -51,6 +51,9 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 # Installation
 
+Repo: https://github.com/aashpaash
+Deployed: https://ap-tech-blog.herokuapp.com/login
+
 ## Screenshot
 
 # License
